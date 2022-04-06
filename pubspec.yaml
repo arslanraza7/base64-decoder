@@ -1,8 +1,8 @@
 name: image_decode
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: Arslan Raza <arslanraza775@gmail.com>
+homepage: https://github.com/arslanraza7/base64-decoder
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
