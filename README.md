@@ -61,3 +61,5 @@ class ImageDecoder extends StatelessWidget {
   }
 }
 ```
+
+To publish you package run 'dart pub publish'.
